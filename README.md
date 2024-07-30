@@ -29,6 +29,10 @@ What does this script do? you can select to:
 ⚠️ Manually set the parameters yourself when prompted during the setup.
 
 ⚠️ در هنگام راه‌اندازی، وقتی درخواست برای تنظیم پارامترها نمایش داده می‌شود، پارامترها را به صورت دستی وارد کنید.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErfanNamira/FreeIRAN/main/Images/FreeIRAN1.4.0.jpg" alt="FreeIRAN1.4.0">
+</p>
+
 ## How to run 📦
 It's highly recommended to run this script only on a fresh install of Ubuntu 22.04.
 ```
